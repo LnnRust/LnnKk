@@ -1,15 +1,26 @@
-*Hi, I'm Arthur. Student at 42 Le Havre, learning low-level programming — mainly C and C++.*
+<div align="center">
 
 <br/>
 
-[![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LnnRust&theme=dracula&hide_border=true)](https://github.com/LnnRust)
+# Arthur Andreo
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnnRust&theme=dracula&hide_border=true&layout=compact&langs_count=5)](https://github.com/LnnRust)
-
-<br/>
-
-[![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/arthur-andreo-8969313b8/)
+Computer Science Student @ 42 Le Havre &nbsp;·&nbsp; 
+Currently learning C / C++
 
 <br/>
 
-[![snake animation](https://raw.githubusercontent.com/LnnRust/LnnRust/output/snake.svg)](https://raw.githubusercontent.com/LnnRust/LnnRust/output/snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-andreo-8969313b8/)
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LnnRust&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=prs,issues&count_private=true&hide_title=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LnnRust&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=5" />
+
+<br/>
+
+</div>
+
