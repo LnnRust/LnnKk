@@ -6,6 +6,7 @@
 **Computer Science Student @ 42 Le Havre**
  
 Deeply into computers since I was a kid.
+<br/>
 Currently learning the fundamentals of **C / C++** through 42's common core.
  
 ---
