@@ -1,10 +1,11 @@
 <div align="center">
 <br/>
 
-# Arthur Andreo
-Computer Science Student @ 42 Le Havre &nbsp;·&nbsp;
-Currently learning C / C++
-<br/>
+# Hi, I'm Arthur 👋
+ 
+**Computer Science Student @ 42 Le Havre**
+ 
+Deeply into computers since I was a kid. Now learning the fundamentals through 42's common core — currently working in **C / C++**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-andreo-8969313b8/)
 <br/>
