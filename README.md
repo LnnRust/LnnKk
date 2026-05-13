@@ -5,7 +5,10 @@
  
 **Computer Science Student @ 42 Le Havre**
  
-Deeply into computers since I was a kid. Now learning the fundamentals through 42's common core — currently working in **C / C++**.
+Deeply into computers since I was a kid.
+Currently learning the fundamentals of **C / C++** through 42's common core.
+ 
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-andreo-8969313b8/)
 <br/>
